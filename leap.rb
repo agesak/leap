@@ -1,11 +1,3 @@
-=begin
-Write your code for the 'Leap' exercise in this file. Make the tests in
-`leap_test.rb` pass.
-
-To get started with TDD, see the `README.md` file in your
-`ruby/leap` directory.
-=end
-
 # Given a year, report if it is a leap year.
 # The tricky thing here is that a leap year in the Gregorian calendar occurs
 # on every year that is evenly divisible by 4
